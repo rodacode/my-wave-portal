@@ -1,5 +1,5 @@
 import * as React from "react";
-import { ethers } from "ethers";
+// import { ethers } from "ethers";
 import './App.css';
 import { ChakraProvider } from "@chakra-ui/react"
 
@@ -31,7 +31,7 @@ export default function App() {
             fontSize="6xl"
             fontWeight="extrabold"
             className="title"
-            textAlign="center">👋 Wave Portal</Text>
+            textAlign="center">Wave Portal</Text>
             
         </div>
 
