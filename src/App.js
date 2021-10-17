@@ -39,7 +39,7 @@ export default function App() {
           Hi I'm Nico and I like cheese and potatoes, and also cheese.
         </div>
 
-        <Button className="waveButton" onClick={wave}>
+        <Button colorScheme="teal" variant="outline" className="waveButton" onClick={wave}>
           Wave at Me
         </Button>
       </div>
